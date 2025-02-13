@@ -56,7 +56,9 @@ Output
 The output CSV (secret_santa_output.csv) will be structured as follows:
 
 Employee_Name,Employee_EmailID,Secret_Child_Name,Secret_Child_EmailID
-John Doe,john.doe@example.com,Jane Smith,jane.smith@example.com
+Hamish Murray,hamish.murray@acme.com
+Layla Graham
+,layla.graham@acme.com
 
 Error Handling
 
