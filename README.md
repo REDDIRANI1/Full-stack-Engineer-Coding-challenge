@@ -28,8 +28,6 @@ Ensure you have Python installed on your system.
 
 Install dependencies (if any are required in the future):
 
-pip install -r requirements.txt
-
 Usage
 
 Input CSV Format
